@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [I worked as a freelance in a project called controlfit. (https://plan-mensual-th.herokuapp.com/)].
 
-- ⚡ Fun fact **I believe that I am fun, persevering, hardworking and responsible.**
+- ⚡ **I believe that I am fun, persevering, hardworking and responsible.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
