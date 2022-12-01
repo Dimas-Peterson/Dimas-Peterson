@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **robertodipeterson@gmail.com**
 
-- 📄 Know about my experiences [I worked as a freelance in a project called controlfit. (https://plan-mensual-th.herokuapp.com/)](I worked as a freelance in a project called controlfit. (https://plan-mensual-th.herokuapp.com/))
+- 📄 Know about my experiences [I worked as a freelance in a project called controlfit. (https://plan-mensual-th.herokuapp.com/)].
 
 - ⚡ Fun fact **I believe that I am fun, persevering, hardworking and responsible.**
 
