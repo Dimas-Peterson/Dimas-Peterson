@@ -1,8 +1,7 @@
 
 [Banner (https://media2.giphy.com/media/9xgevpz9ltXY68pNwI/giphy.gif?cid=790b761110a962d63d70cb73cda0fdc4613d935f435130f0&rid=giphy.gif&ct=g)]
 
-<p align="left">
-<a href="https://media2.giphy.com/media/9xgevpz9ltXY68pNwI/giphy.gif?cid=790b761110a962d63d70cb73cda0fdc4613d935f435130f0&rid=giphy.gif&ct=g" target="blank"><img align="center" src="https://media2.giphy.com/media/9xgevpz9ltXY68pNwI/giphy.gif?cid=790b761110a962d63d70cb73cda0fdc4613d935f435130f0&rid=giphy.gif&ct=g" alt="dimas.peterson" height="30" width="40" /></a>
+<p align="left"><img align="center" src="https://media2.giphy.com/media/9xgevpz9ltXY68pNwI/giphy.gif?cid=790b761110a962d63d70cb73cda0fdc4613d935f435130f0&rid=giphy.gif&ct=g" alt="dimas.peterson" height="30" width="40" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dimas!</h1>
