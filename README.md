@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://i.giphy.com/media/4rZA5D22301iMgrUNd/giphy.webp">
+<img width="100%" height="70%" src="https://i.giphy.com/media/4rZA5D22301iMgrUNd/giphy.webp">
 
 
 <h1 align="center">Hi 👋, I'm Dimas!</h1>
