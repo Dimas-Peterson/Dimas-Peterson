@@ -1,3 +1,4 @@
+![]([/images/content/34341808/45800cf790f648a928bb8a8e0e3e8680.gif](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif))
 <h1 align="center">Hi 👋, I'm Dimas!</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
