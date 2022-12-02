@@ -1,6 +1,8 @@
 ![](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
 
-<img src="(https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)" width="40" height="40" />
+<img align="right" width="120" height="120" src="https://www.pexels.com/photo/photo-of-grey-tabby-kitten-lying-down-2558605/">
+
+
 <h1 align="center">Hi 👋, I'm Dimas!</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
