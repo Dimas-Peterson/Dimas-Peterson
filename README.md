@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dimas!</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
-<p><img align="center" src="[https://www.pexels.com/photo/photo-of-grey-tabby-kitten-lying-down-2558605/](https://media2.giphy.com/media/9xgevpz9ltXY68pNwI/giphy.gif?cid=790b761110a962d63d70cb73cda0fdc4613d935f435130f0&rid=giphy.gif&ct=g)"></p>
+[Gif](https://media2.giphy.com/media/9xgevpz9ltXY68pNwI/giphy.gif?cid=790b761110a962d63d70cb73cda0fdc4613d935f435130f0&rid=giphy.gif&ct=g)"
 - 🌱 I’m currently learning **Spring boot, Javascript, React among others technologies.**
 
 - 👨‍💻 All of my projects are available at [https://dimas-peterson.github.io/](https://dimas-peterson.github.io/)
