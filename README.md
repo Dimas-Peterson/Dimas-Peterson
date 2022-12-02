@@ -1,10 +1,6 @@
-<p>
-  <img align="right" width="120" height="120" src="https://www.pexels.com/photo/photo-of-grey-tabby-kitten-lying-down-2558605/">
-</p>
-
 <h1 align="center">Hi 👋, I'm Dimas!</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
-
+<p><img align="center" src="https://www.pexels.com/photo/photo-of-grey-tabby-kitten-lying-down-2558605/"></p>
 - 🌱 I’m currently learning **Spring boot, Javascript, React among others technologies.**
 
 - 👨‍💻 All of my projects are available at [https://dimas-peterson.github.io/](https://dimas-peterson.github.io/)
