@@ -1,4 +1,5 @@
-[](https://media2.giphy.com/media/9xgevpz9ltXY68pNwI/giphy.gif?cid=790b761110a962d63d70cb73cda0fdc4613d935f435130f0&rid=giphy.gif&ct=g)
+
+[Banner (https://media2.giphy.com/media/9xgevpz9ltXY68pNwI/giphy.gif?cid=790b761110a962d63d70cb73cda0fdc4613d935f435130f0&rid=giphy.gif&ct=g)]
 
 <h1 align="center">Hi 👋, I'm Dimas!</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
