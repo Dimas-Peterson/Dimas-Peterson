@@ -1,6 +1,6 @@
-<img src="https://i.giphy.com/media/4rZA5D22301iMgrUNd/giphy.webp">
 
-<center>https://i.giphy.com/media/4rZA5D22301iMgrUNd/giphy.webp</center>
+<p style="text-align:center;"><img src="https://i.giphy.com/media/4rZA5D22301iMgrUNd/giphy.webp"></p>
+
 
 <h1 align="center">Hi 👋, I'm Dimas!</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
